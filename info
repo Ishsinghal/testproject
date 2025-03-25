@@ -2,4 +2,8 @@ this is main branch
 
 this is change from hot fix branch
 
+<<<<<<< HEAD
 changes 
+=======
+changes from github
+>>>>>>> 38d790dd76690c821294f56aa08a59b74b1a213c
